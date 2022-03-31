@@ -27,8 +27,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
+-
 ![Mobile-view](images/screenshot-mobile.jpg)
+
+-
 ![Desktop-view](/images/screenshot-desktop.jpg)
 
 ### Links

@@ -49,8 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-Overall, I just learned the more because I faced more and more problems as I move on to more demanding projects.
-What surprised the most was that certain code snippets that proved very useful in my other projects just seemed impossible to apply in this project. There most be some lapses in their use cases. This could be as a result of the display types I used and some other conflicting variables; however, adding them here would just be too tiresome.
+Overall, I just learned more because I faced more and more problems as I move on to more demanding projects. What surprised the most was that certain code snippets that proved very useful in my other projects just seemed impossible to apply to this project. There must be some lapses in their use cases. This could be a result of the display types I used and some other conflicting variables; however, adding them here would just be too tiresome.
 I however learned one particular hitch with trying to manipulate custom variables:
 
 ```css
